@@ -10,3 +10,4 @@
 root/root
 
 默认开启远程连接
+默认创建test数据库和person表
